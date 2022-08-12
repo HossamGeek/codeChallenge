@@ -1,0 +1,17 @@
+{
+  "name": "exercise_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "papaparse": "^5.3.2"
+  }
+}
